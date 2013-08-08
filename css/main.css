@@ -751,12 +751,8 @@ h1 + .sub-title {
     -moz-transition: margin-bottom 0.2s ease;
     transition: margin-bottom 0.2s ease;
     border: 1px solid black;
-    border-top-style: none;
+    margin-bottom: 30px;
 }
-#posts article:first-child {
-    border-top-style: solid;
-}
-
 #posts article:after {
     content: '';
     position: absolute;
