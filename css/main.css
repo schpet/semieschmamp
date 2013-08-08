@@ -389,7 +389,7 @@ body.is-scrolling #posts * {
 }
 
 .no-image.avatar-style-circle #header {
-    margin-top: 100px;
+    margin-top: 20px;
 }
 
 /** No image, no avatar **/
