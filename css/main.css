@@ -730,6 +730,7 @@ h1 + .sub-title {
 #posts,
 #posts.no-title-desc.avatar-style-hidden {
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 #posts.no-title-desc {
